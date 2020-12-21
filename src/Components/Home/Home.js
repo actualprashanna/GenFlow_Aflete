@@ -16,6 +16,8 @@ const Home = () => {
           <div classname="row">
           </div>
 
+
+          
           <a href="https://apps.apple.com/us/app/aflete/id1144968481#?platform=iphone" class=" btn btn-dark rounded-pill m-1"><span class="mai-logo-apple"></span></a><t/>
           <a href="https://play.google.com/store/apps/details?id=com.aflete.afleteapp&hl=en&gl=US" class="btn btn-success rounded-pill m-1"><span class="mai-logo-google-playstore"></span></a>
          
